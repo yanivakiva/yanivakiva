@@ -36,7 +36,7 @@ I'm currently working as Software Engineer at DOKKA and i am also a 1st year stu
 <img align="left" width="50px" src="https://user-images.githubusercontent.com/57855070/100348648-db6d6180-2fef-11eb-8fea-e75047e57b3c.png"/>
 <br></br>
 
-#### Connect with me 📫
+#### Connect with me
 
 [<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png"/>][linkedin]
 
