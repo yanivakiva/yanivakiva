@@ -41,6 +41,7 @@ B.Sc - Computer Science student at The Open University.
 <br></br>
 
 #### Operating Systems
+<img align="left" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/apple-853-675472.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/100354935-92220f80-2ff9-11eb-8d48-a4c3cc1e3a9b.png"/>
 <img align="left" width="50px" src="https://user-images.githubusercontent.com/57855070/100348648-db6d6180-2fef-11eb-8fea-e75047e57b3c.png"/>
 <br></br>
