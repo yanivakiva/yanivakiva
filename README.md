@@ -1,7 +1,7 @@
 
 ### Hi there ✌️
 
-I'm currently working as Software Engineer at DOKKA and a 1st year student of B.Sc - Computer Science at The Open University 💻
+I'm currently working as Software Engineer at DOKKA and i am also a 1st year student of B.Sc - Computer Science at The Open University 💻
 
 #### Programming Languages 🚀
 
