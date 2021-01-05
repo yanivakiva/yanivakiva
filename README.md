@@ -1,7 +1,8 @@
 
 ### Yaniv Akiva - 👨🏻‍💻
 
-I'm currently working as Software Engineer at DOKKA and i am also a 1st year student of B.Sc - Computer Science at The Open University.
+Currently working as a Software Engineer at DOKKA.
+B.Sc - Computer Science student at The Open University.
 <br></br>
 
 
