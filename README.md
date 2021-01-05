@@ -20,6 +20,7 @@ B.Sc - Computer Science student at The Open University.
 <img align="left" width="36px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
 <img align="left" width="36px" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"/>
 </p>
+<br></br>
 
 #### Tools
 
