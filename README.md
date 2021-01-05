@@ -9,6 +9,8 @@ I'm currently working as Software Engineer at DOKKA and i am also a 1st year stu
 <img align="left" width="36px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
 <img align="left" width="60px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg"/>
 <img align="left" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
+<img align="left" width="36px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
+<img align="left" width="36px" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610"/>
 <br></br>
 
 #### Tools
