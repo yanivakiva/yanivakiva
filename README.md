@@ -1,5 +1,5 @@
 
-### Yaniv Akiva - 👨🏻‍💻
+### Yaniv Akiva 👨🏻‍💻
 
 Currently working as a Software Engineer at DOKKA.
 <br></br>
