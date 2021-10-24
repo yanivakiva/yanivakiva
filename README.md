@@ -24,7 +24,7 @@ B.Sc - Computer Science student at The Open University.
 
 #### Tools
 
-<img align="left" width="50px" src="https://www.centerity.com/wp-content/uploads/2019/11/docker_facebook_share.png"/>
+<img align="left" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png"/>
 <img align="left" width="80px" src="https://miro.medium.com/max/4000/1*lzzowv9Cml3k8h7cfzbwiA.png"/>
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> 
