@@ -10,7 +10,7 @@ B.Sc - Computer Science student at The Open University.
 #### Programming Languages
 <p>
 <img align="left" width="36px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
-<img align="left" width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg"/>
+<img align="left" width="40px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98301894-33521300-1fc4-11eb-860e-f06c2a2e9dce.png"/>
 </p>
 <br/>
