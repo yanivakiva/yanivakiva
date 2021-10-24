@@ -37,7 +37,7 @@ B.Sc - Computer Science student at The Open University.
 
 #### Cloud Experience
 <img align="left" width="60px" src="https://image.flaticon.com/icons/png/512/873/873107.png"/>
-<img align="left" width="60px" src="https://cdn.appythings.nl/wp-content/uploads/2018/06/aws-logo-icon-PNG-Transparent-Background.png"/>
+<img align="left" width="60px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/>
 <br></br>
 
 #### Operating Systems
