@@ -36,7 +36,7 @@ B.Sc - Computer Science student at The Open University.
 <br></br>
 
 #### Cloud Experience
-<img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"/>
+<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"/>
 <img align="left" width="85px" src="https://cutewallpaper.org/24/cloud-logo-png/google-2ada3-cloud-6fe6b-logo-c1248-history-ec871-meaning-9ef48-symbol-980d6-png.png"/>
 <img align="left" width="80px" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"/>
 <br></br>
