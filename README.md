@@ -1,7 +1,7 @@
 
 ### Yaniv Akiva 👨🏻‍💻
 
-Currently working as a Software Engineer at DOKKA.
+Currently working as a Software Engineer at Sygnia.
 <br></br>
 B.Sc - Computer Science student at The Open University.
 <br></br>
